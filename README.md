@@ -4,7 +4,7 @@
 
 - [Installation](#installation-and-requirements)
 - [Get Started](#get-started)
-- [Model Zoo](#model-zoo)
+- [DeepWiki](#deepwiki)
 - [Launch Demo Locally](#launch-demo-locally)
 - [Custom Finetune](#Custom-Finetune)
 - [Customize Your Own Large Multimodel Models](#customize-your-own-multimodel-models)
@@ -83,6 +83,9 @@ Global Batch Size = num of GPUs * `per_device_train_batch_size` * `gradient_accu
 
 Please refer to the [Evaluation](https://tinyllava-factory.readthedocs.io/en/latest/Evaluation.html) section in our [Documenation](https://tinyllava-factory.readthedocs.io/en/latest/Evaluation.html).
 
+## DeepWiki
+
+Auto-generated encyclopedia style documentation of this repository is available at [DeepWiki](https://deepwiki.com/standardmodelbio/Llama3-Med).
 
 ## Launch Demo Locally
 
